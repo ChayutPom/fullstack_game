@@ -1,0 +1,43 @@
+<% include ../partials/header %>
+<div class="container">
+    <h1>Games 6030213032</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Type</th>
+                <th>Action<a name="" id="" class="btn btn-primary" 
+                    href="/classadd" role="button">Add</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <% games.forEach(function(c){ %>
+                
+                <tr>
+                        <td scope="row">
+                        <a >
+                            <%= c.idg %>
+                        </a>    
+                        </td>
+                        <td><%= c.game_name%></td>
+                        <td><%= c.price %></td>
+                        <td><%= c.type %></td>
+                        <td>
+                            <a name="" id="" class="btn btn-primary" 
+                            href="/classdetail/<%= c.idg %>" role="button">View</a>
+                            <a name="" id="" class="btn btn-primary" 
+                            href="/classedit/<%= c.idg %>" role="button">Edit</a>
+                            
+                            <a  class="btn btn-primary" 
+                            href="/delete/<%= c.game_name %>" role="button">Delete</a>
+                            
+                        </td>
+                    </tr>
+                    
+            <% }); %>            
+        </tbody>
+    </table>
+</div>
+<% include ../partials/footer %>

@@ -1,0 +1,77 @@
+
+{
+    "idg" : "1",
+    "id" : 1,
+    "game_name" : "Love Esquire",
+    "price" : "287",
+    "type" : "RPG/Dating Sim/Visual Novel"
+}
+
+
+{
+    "idg" : "2",
+    "game_name" : "War Selection",
+    "price" : "10",
+    "type" : "Early /Access/Strategy/Indie/RTS/PvP/PvE"
+}
+
+
+{
+    "idg" : "3",
+    "game_name" : "Spirits Abyss",
+    "price" : "68",
+    "type" : "Early /Access/Indie/ActionEarly/ Access2D"
+}
+
+{
+    "idg" : "4",
+    "game_name" : "Space Robinson: Hardcore Roguelike Action",
+    "price" : "170",
+    "type" : "Action/Indie/RPG/Adventure/Pixel Graphics"
+}
+
+{
+    "idg" : "5",
+    "game_name" : "Freeman: Guerrilla Warfare",
+    "price" : "300",
+    "type" : "Strategy/FPSRPG/Open World/Action"
+}
+
+{
+    "idg" : "6",
+    "game_name" : "Karar X",
+    "price" : "80",
+    "type" : "Indie/Adventure/Puzzle/Mystery/Story Rich"
+}
+
+
+{
+    "idg" : "7",
+    "game_name" : "Neon Tail",
+    "price" : "150",
+    "type" : "Early Access/Sports/Action/Early Access"
+}
+
+
+{
+    "idg" : "8",
+    "game_name" : "The Wild Eight",
+    "price" : "313",
+    "type" : "Survival/Multiplayer/Open World/Adventure"
+}
+
+
+{
+    "idg" : "9",
+    "game_name" : "Castle Woodwarf",
+    "price" : "50",
+    "type" : "Indie/Strategy/Tower Defense/Management"
+}
+
+
+{
+    "idg" : "10",
+    "game_name" : "Destiny 2",
+    "price" : "150",
+    "type" : "FPS/Multiplayer/Online Co-OpLoot/Sci-fi"
+}
